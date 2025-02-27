@@ -12,7 +12,7 @@ from config import BOT_TOKEN, ADMIN_IDS, OWNER_USERNAME
 USER_FILE = "users.json"
 KEY_FILE = "keys.json"
 
-DEFAULT_THREADS = 120
+DEFAULT_THREADS = 80
 users = {}
 keys = {}
 user_processes = {}
